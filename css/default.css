@@ -1,0 +1,2622 @@
+﻿* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body, html, form {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+#form1 {
+    margin: 0 auto;
+}
+
+.width1 {
+    width: 1%;
+    display: block;
+    float: left;
+}
+
+.width2 {
+    width: 2%;
+    display: block;
+    float: left;
+}
+
+
+.width3 {
+    width: 3%;
+    display: block;
+    float: left;
+}
+
+.width4 {
+    width: 4%;
+    display: block;
+    float: left;
+}
+
+.width5 {
+    width: 5%;
+    display: block;
+    float: left;
+}
+
+.width6 {
+    width: 6%;
+    display: block;
+    float: left;
+}
+
+.width7 {
+    width: 7%;
+    display: block;
+    float: left;
+}
+
+.width8 {
+    width: 8%;
+    display: block;
+    float: left;
+}
+
+.width9 {
+    width: 9%;
+    display: block;
+    float: left;
+}
+
+.width10 {
+    width: 10%;
+    display: block;
+    float: left;
+}
+
+.width101p {
+    width: 11%;
+    display: block;
+    float: left;
+}
+
+.width11 {
+    width: 11%;
+    display: block;
+    float: left;
+}
+
+.width12 {
+    width: 12%;
+    display: block;
+    float: left;
+}
+
+.width13 {
+    width: 13%;
+    display: block;
+    float: left;
+}
+
+.width14 {
+    width: 14%;
+    display: block;
+    float: left;
+}
+
+.width15 {
+    width: 15%;
+    display: block;
+    float: left;
+}
+
+.width16 {
+    width: 16%;
+    display: block;
+    float: left;
+}
+
+.width17 {
+    width: 17%;
+    display: block;
+    float: left;
+}
+
+.width18 {
+    width: 18%;
+    display: block;
+    float: left;
+}
+
+.width19 {
+    width: 19%;
+    display: block;
+    float: left;
+}
+
+.width20 {
+    width: 20%;
+    display: block;
+    float: left;
+}
+
+.width21 {
+    width: 21%;
+    display: block;
+    float: left;
+}
+
+.width22 {
+    width: 22%;
+    display: block;
+    float: left;
+}
+
+.width23 {
+    width: 23%;
+    display: block;
+    float: left;
+}
+
+.width24 {
+    width: 24%;
+    display: block;
+    float: left;
+}
+
+.width25 {
+    width: 25%;
+    display: block;
+    float: left;
+}
+
+.width26 {
+    width: 26%;
+    display: block;
+    float: left;
+}
+
+.width27 {
+    width: 27%;
+    display: block;
+    float: left;
+}
+
+.width28 {
+    width: 28%;
+    display: block;
+    float: left;
+}
+
+.width29 {
+    width: 29%;
+    display: block;
+    float: left;
+}
+
+.width30 {
+    width: 30%;
+    display: block;
+    float: left;
+}
+
+.width31 {
+    width: 31%;
+    display: block;
+    float: left;
+}
+
+.width32 {
+    width: 32%;
+    display: block;
+    float: left;
+}
+
+.width33 {
+    width: 33%;
+    display: block;
+    float: left;
+}
+
+.width34 {
+    width: 34%;
+    display: block;
+    float: left;
+}
+
+.width35 {
+    width: 35%;
+    display: block;
+    float: left;
+}
+
+.width36 {
+    width: 36%;
+    display: block;
+    float: left;
+}
+
+.width37 {
+    width: 37%;
+    display: block;
+    float: left;
+}
+
+.width38 {
+    width: 38%;
+    display: block;
+    float: left;
+}
+
+.width39 {
+    width: 39%;
+    display: block;
+    float: left;
+}
+
+.width40 {
+    width: 40%;
+    display: block;
+    float: left;
+}
+
+.width41 {
+    width: 41%;
+    display: block;
+    float: left;
+}
+
+.width42 {
+    width: 42%;
+    display: block;
+    float: left;
+}
+
+.width43 {
+    width: 43%;
+    display: block;
+    float: left;
+}
+
+.width44 {
+    width: 44%;
+    display: block;
+    float: left;
+}
+
+.width45 {
+    width: 45%;
+    display: block;
+    float: left;
+}
+
+.width46 {
+    width: 46%;
+    display: block;
+    float: left;
+}
+
+.width47 {
+    width: 47%;
+    display: block;
+    float: left;
+}
+
+.width48 {
+    width: 48%;
+    display: block;
+    float: left;
+}
+
+.width49 {
+    width: 49%;
+    display: block;
+    float: left;
+}
+
+.width50 {
+    width: 50%;
+    display: block;
+    float: left;
+}
+
+.width51 {
+    width: 51%;
+    display: block;
+    float: left;
+}
+
+.width52 {
+    width: 52%;
+    display: block;
+    float: left;
+}
+
+.width53 {
+    width: 53%;
+    display: block;
+    float: left;
+}
+
+.width54 {
+    width: 54%;
+    display: block;
+    float: left;
+}
+
+.width55 {
+    width: 55%;
+    display: block;
+    float: left;
+}
+
+.width56 {
+    width: 56%;
+    display: block;
+    float: left;
+}
+
+.width57 {
+    width: 57%;
+    display: block;
+    float: left;
+}
+
+.width58 {
+    width: 58%;
+    display: block;
+    float: left;
+}
+
+.width59 {
+    width: 59%;
+    display: block;
+    float: left;
+}
+
+.width60 {
+    width: 60%;
+    display: block;
+    float: left;
+}
+
+.width61 {
+    width: 61%;
+    display: block;
+    float: left;
+}
+
+.width62 {
+    width: 62%;
+    display: block;
+    float: left;
+}
+
+.width63 {
+    width: 63%;
+    display: block;
+    float: left;
+}
+
+.width64 {
+    width: 64%;
+    display: block;
+    float: left;
+}
+
+.width65 {
+    width: 65%;
+    display: block;
+    float: left;
+}
+
+.width66 {
+    width: 66%;
+    display: block;
+    float: left;
+}
+
+.width67 {
+    width: 67%;
+    display: block;
+    float: left;
+}
+
+.width68 {
+    width: 68%;
+    display: block;
+    float: left;
+}
+
+.width69 {
+    width: 69%;
+    display: block;
+    float: left;
+}
+
+.width70 {
+    width: 70%;
+    display: block;
+    float: left;
+}
+
+.width71 {
+    width: 71%;
+    display: block;
+    float: left;
+}
+
+.width72 {
+    width: 72%;
+    display: block;
+    float: left;
+}
+
+.width73 {
+    width: 73%;
+    display: block;
+    float: left;
+}
+
+.width74 {
+    width: 74%;
+    display: block;
+    float: left;
+}
+
+.width75 {
+    width: 75%;
+    display: block;
+    float: left;
+}
+
+.width76 {
+    width: 76%;
+    display: block;
+    float: left;
+}
+
+.width77 {
+    width: 77%;
+    display: block;
+    float: left;
+}
+
+.width78 {
+    width: 78%;
+    display: block;
+    float: left;
+}
+
+.width79 {
+    width: 79%;
+    display: block;
+    float: left;
+}
+
+.width80 {
+    width: 80%;
+    display: block;
+    float: left;
+}
+
+.width81 {
+    width: 81%;
+    display: block;
+    float: left;
+}
+
+.width82 {
+    width: 82%;
+    display: block;
+    float: left;
+}
+
+.width83 {
+    width: 83%;
+    display: block;
+    float: right;
+}
+
+.width84 {
+    width: 84%;
+    display: block;
+    float: left;
+}
+
+.width85 {
+    width: 85%;
+    display: block;
+    float: left;
+}
+
+.width86 {
+    width: 86%;
+    display: block;
+    float: left;
+}
+
+.width87 {
+    width: 87%;
+    display: block;
+    float: left;
+}
+
+.width88 {
+    width: 88%;
+    display: block;
+    float: left;
+}
+
+.width89 {
+    width: 89%;
+    display: block;
+    float: left;
+}
+
+.width90 {
+    width: 90%;
+    display: block;
+    float: left;
+}
+
+.width91 {
+    width: 91%;
+    display: block;
+    float: left;
+}
+
+.width92 {
+    width: 92%;
+    display: block;
+    float: left;
+}
+
+.width93 {
+    width: 93%;
+    display: block;
+    float: left;
+}
+
+.width94 {
+    width: 94%;
+    display: block;
+    float: left;
+}
+
+.width95 {
+    width: 95%;
+    display: block;
+    float: left;
+}
+
+.width96 {
+    width: 96%;
+    display: block;
+    float: left;
+}
+
+.width97 {
+    width: 97%;
+    display: block;
+    float: left;
+}
+
+.width98 {
+    width: 98%;
+    display: block;
+    float: left;
+}
+
+.width99 {
+    width: 99%;
+    display: block;
+    float: left;
+}
+
+.width100 {
+    width: 100%;
+    display: block;
+    float: left;
+}
+
+
+.height1 {
+    height: 1%;
+}
+
+.height2 {
+    height: 2%;
+}
+
+.height3 {
+    height: 3%;
+}
+
+.height4 {
+    height: 4%;
+}
+
+.height5 {
+    height: 5%;
+}
+
+.height6 {
+    height: 6%;
+}
+
+.height7 {
+    height: 7%;
+    display: block;
+}
+
+.height8 {
+    height: 8%;
+}
+
+.height9 {
+    height: 9%;
+}
+
+.height10 {
+    height: 10%;
+}
+
+.height11 {
+    height: 11%;
+}
+
+.height12 {
+    height: 12%;
+}
+
+.height13 {
+    height: 13%;
+}
+
+.height14 {
+    height: 14%;
+}
+
+.height15 {
+    height: 15%;
+}
+
+.height16 {
+    height: 16%;
+}
+
+.height17 {
+    height: 17%;
+}
+
+.height18 {
+    height: 18%;
+}
+
+.height19 {
+    height: 19%;
+}
+
+.height20 {
+    height: 20%;
+}
+
+.height21 {
+    height: 21%;
+}
+
+.height22 {
+    height: 22%;
+}
+
+.height23 {
+    height: 23%;
+}
+
+.height24 {
+    height: 24%;
+}
+
+.height25 {
+    height: 25%;
+}
+
+.height26 {
+    height: 26%;
+}
+
+.height27 {
+    height: 27%;
+}
+
+.height28 {
+    height: 28%;
+}
+
+.height29 {
+    height: 29%;
+}
+
+.height30 {
+    height: 30%;
+}
+
+.height31 {
+    height: 31%;
+}
+
+.height32 {
+    height: 32%;
+}
+
+.height33 {
+    height: 33%;
+}
+
+.height34 {
+    height: 34%;
+}
+
+.height35 {
+    height: 35%;
+}
+
+.height36 {
+    height: 36%;
+}
+
+.height37 {
+    height: 37%;
+}
+
+.height38 {
+    height: 38%;
+}
+
+.height39 {
+    height: 39%;
+}
+
+.height40 {
+    height: 40%;
+}
+
+.height41 {
+    height: 41%;
+}
+
+.height42 {
+    height: 42%;
+}
+
+.height43 {
+    height: 43%;
+}
+
+.height44 {
+    height: 44%;
+}
+
+.height45 {
+    height: 45%;
+}
+
+.height46 {
+    height: 46%;
+}
+
+.height47 {
+    height: 47%;
+}
+
+.height48 {
+    height: 48%;
+}
+
+.height49 {
+    height: 49%;
+}
+
+.height50 {
+    height: 50%;
+}
+
+.height51 {
+    height: 51%;
+}
+
+.height52 {
+    height: 52%;
+}
+
+.height53 {
+    height: 53%;
+}
+
+.height54 {
+    height: 54%;
+}
+
+.height55 {
+    height: 55%;
+}
+
+.height56 {
+    height: 56%;
+}
+
+.height57 {
+    height: 57%;
+}
+
+.height58 {
+    height: 58%;
+}
+
+.height59 {
+    height: 59%;
+}
+
+.height60 {
+    height: 60%;
+}
+
+.height61 {
+    height: 61%;
+}
+
+.height62 {
+    height: 62%;
+}
+
+.height63 {
+    height: 63%;
+}
+
+.height64 {
+    height: 64%;
+}
+
+.height65 {
+    height: 65%;
+}
+
+.height66 {
+    height: 66%;
+}
+
+.height67 {
+    height: 67%;
+}
+
+.height68 {
+    height: 68%;
+}
+
+.height69 {
+    height: 69%;
+}
+
+.height70 {
+    height: 70%;
+}
+
+.height71 {
+    height: 71%;
+}
+
+.height72 {
+    height: 72%;
+}
+
+.height73 {
+    height: 73%;
+}
+
+.height74 {
+    height: 74%;
+}
+
+.height75 {
+    height: 75%;
+}
+
+.height76 {
+    height: 76%;
+}
+
+.height77 {
+    height: 77%;
+}
+
+.height78 {
+    height: 78%;
+}
+
+.height79 {
+    height: 79%;
+}
+
+.height80 {
+    height: 80%;
+}
+
+.height81 {
+    height: 81%;
+}
+
+.height82 {
+    height: 82%;
+}
+
+.height83 {
+    height: 83%;
+}
+
+.height84 {
+    height: 84%;
+}
+
+.height85 {
+    height: 85%;
+}
+
+.height86 {
+    height: 86%;
+}
+
+.height87 {
+    height: 87%;
+}
+
+.height88 {
+    height: 88%;
+}
+
+.height89 {
+    height: 89%;
+}
+
+.height90 {
+    height: 90%;
+}
+
+.height91 {
+    height: 91%;
+}
+
+.height92 {
+    height: 92%;
+}
+
+.height93 {
+    height: 93%;
+}
+
+.height94 {
+    height: 94%;
+}
+
+.height95 {
+    height: 95%;
+}
+
+.height96 {
+    height: 96%;
+}
+
+.height97 {
+    height: 97%;
+}
+
+.height98 {
+    height: 98%;
+}
+
+.height99 {
+    height: 99%;
+}
+
+.height100 {
+    height: 100%;
+}
+
+@media (max-width: 768px) {
+    .width1,
+    .width5,
+    .width10,
+    .width20,
+    .width25,
+    .width30,
+    .width33,
+    .width40,
+    .width50,
+    .width60,
+    .width70,
+    .width80,
+    .width90 {
+        width: 100%;
+    }
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    gap: 0; /* or spacing if you want */
+}
+
+/* TOP INFO BAR */
+.topBar {
+    background: #111; /* dark bar */
+    color: #fff;
+    font-size: 12px;
+}
+
+.topBarInner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 6px 15px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+    .topBarInner span {
+        white-space: nowrap;
+    }
+
+/* MAIN HEADER */
+#siteHeader {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    transition: transform 0.25s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+}
+
+    /* default state */
+    #siteHeader .mainHeader {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        transition: padding 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+    }
+
+    /* when scrolled */
+    #siteHeader.is-scrolled .mainHeader {
+        padding-top: 6px;
+        padding-bottom: 6px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+    }
+
+.mainHeader {
+    background: #ffffffe6;
+    /*border-bottom: 1px solid #eee;*/
+}
+
+    .mainHeader::after {
+        content: "";
+        display: block;
+        clear: both;
+    }
+
+/* your widthXX already float:left + display:block */
+.logoPart {
+    padding: 10px 15px;
+}
+
+.logoImg {
+    max-height: 60px;
+    height: auto;
+    width: auto;
+}
+
+.navPart {
+    padding: 30px 35px 0px;
+    position: relative;
+}
+
+/* MAIN MENU (desktop) */
+.mainMenu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+
+    .mainMenu li {
+        display: inline-block;
+        margin-left: 25px;
+    }
+
+    .mainMenu a {
+        text-decoration: none;
+        font-size: 14px;
+        text-transform: uppercase;
+        color: #222;
+        letter-spacing: 0.08em;
+    }
+
+        .mainMenu a:hover {
+            color: #b8860b; /* some gold/brown furniture tone */
+        }
+
+/* MOBILE MENU TOGGLE (hidden on desktop) */
+.mobileMenuToggle {
+    display: none;
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+
+    .topBarInner {
+        display: none;
+    }
+
+    /*.logoPart,
+    .navPart {
+        width: 100% !important;*/ /* override your width20/width80 on mobile */
+        /*float: none;
+    }*/
+
+    .navPart {
+        padding: 55px 0px 0px;
+    }
+
+    .mobileMenuToggle {
+        display: block;
+    }
+
+    .mainMenu {
+        display: none;
+        text-align: left;
+        margin-top: 10px;
+    }
+
+        .mainMenu li {
+            display: block;
+            margin: 8px 0;
+        }
+
+        .mainMenu a {
+            font-size: 15px;
+        }
+
+        /* when we add .open via JS */
+        .mainMenu.open {
+            display: block;
+        }
+}
+/* ===========================
+   HERO SECTION
+   =========================== */
+
+.heroSection {
+    position: relative;
+    height: 80vh; /* similar to that site */
+    min-height: 480px;
+    overflow: hidden;
+    color: #ffffff;
+}
+
+.heroVideo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    pointer-events: none;
+}
+.heroVideoWrapper {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+/* Dark overlay */
+.heroVideoWrapper::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.65); /* adjust darkness */
+    pointer-events: none;
+}
+
+/* DARK GRADIENT OVER VIDEO – like original */
+.heroSection::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient( 90deg, rgba(0, 0, 0, 0.75) 0%, rgba(0, 0, 0, 0.45) 45%, rgba(0, 0, 0, 0.15) 100% );
+    z-index: 0;
+    pointer-events: none;
+}
+
+/* TEXT OVERLAY LAYER */
+.heroOverlay {
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+}
+
+/* INNER CONTENT (aligned a bit left like the real site) */
+.heroContent {
+    max-width: 1200px;
+    margin: 0 auto;
+    height: 100%;
+    padding: 120px 15px 80px; /* top padding keeps it below the header */
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* vertical center */
+}
+
+/* TITLES AND TEXT */
+.heroTitle {
+    font-size: 40px;
+    line-height: 1.2;
+    margin: 0 0 15px 0;
+}
+
+.heroSubtitle {
+    font-size: 18px;
+    max-width: 480px;
+    margin: 0 0 30px 0;
+}
+
+/* BUTTON LIKE ORIGINAL "Rezervoni Takimin Tani!" */
+.heroBtn {
+    display: inline-block;
+    padding: 12px 28px;
+    background: #f5c76b; 
+    max-width: 400px;
+    color: #000;
+    text-decoration: none;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    border-radius: 4px;
+}
+
+    .heroBtn:hover {
+        background: #e3b354;
+    }
+
+/* ===========================
+   RESPONSIVE HERO
+   =========================== */
+@media (max-width: 768px) {
+
+    .logoPart{
+        padding: 0px;
+    }
+    #siteHeader .mainHeader{
+        height: 70px;
+    }
+
+    .heroSection {
+        height: 70vh;
+        min-height: 420px;
+    }
+
+    .heroContent {
+        padding: 90px 15px 40px;
+        align-items: flex-start;
+    }
+
+    .heroTitle {
+        font-size: 28px;
+    }
+
+    .heroSubtitle {
+        font-size: 15px;
+        max-width: 100%;
+    }
+
+    .heroBtn {
+        padding: 10px 22px;
+        font-size: 13px;
+    }
+}
+/* ===========================
+   SHËRBIMET TONA - INTRO
+   =========================== */
+
+.servicesIntroSection {
+    background: #ffffff;
+    padding: 60px 0;
+}
+
+.servicesIntroInner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+    overflow: hidden; /* clears width50 floats */
+}
+
+/* LEFT COLUMN (TEXT) */
+.servicesIntroText {
+    box-sizing: border-box;
+    padding-right: 30px;
+}
+
+.servicesIntroLabel {
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    color: #b28a4a; /* nuancë “dru / gold” si site */
+    margin: 0 0 10px 0;
+}
+
+.servicesIntroTitle {
+    font-size: 28px;
+    line-height: 1.3;
+    margin: 0 0 20px 0;
+    color: #222;
+}
+
+.servicesIntroParagraph {
+    font-size: 15px;
+    line-height: 1.7;
+    color: #555;
+    max-width: 520px;
+    margin: 0 0 25px 0;
+}
+
+/* btn përdor heroBtn, vetëm pak hapësirë ekstra */
+.servicesIntroBtn {
+    margin-top: 5px;
+}
+
+/* RIGHT COLUMN (IMAGES) */
+.servicesIntroVisual {
+    box-sizing: border-box;
+    padding-left: 30px;
+}
+
+.servicesIntroImageWrapper {
+    position: relative;
+    width: 100%;
+    max-width: 480px;
+    margin: 0 auto;
+}
+
+.servicesIntroImg {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+/* imazhi kryesor */
+.mainImg {
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.18);
+}
+
+/* imazhi dytësor i mbivendosur */
+.secondaryImg {
+    position: absolute;
+    width: 55%;
+    right: -10%;
+    bottom: -10%;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+}
+
+/* ===========================
+   RESPONSIVE
+   =========================== */
+@media (max-width: 768px) {
+
+    .servicesIntroSection {
+        padding: 40px 0;
+    }
+
+    .servicesIntroText,
+    .servicesIntroVisual {
+        width: 100% !important; /* override width50 */
+        float: none;
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .servicesIntroText {
+        margin-bottom: 25px;
+    }
+
+    .servicesIntroTitle {
+        font-size: 22px;
+    }
+
+    .servicesIntroParagraph {
+        font-size: 14px;
+        max-width: 100%;
+    }
+
+    .servicesIntroImageWrapper {
+        max-width: 360px;
+    }
+
+    .secondaryImg {
+        position: absolute;
+        width: 60%;
+        right: -5%;
+        bottom: -8%;
+    }
+}
+
+
+
+/* ===========================
+   PUNA JONË KRENARE
+   =========================== */
+
+.proudWorkSection {
+    background: #f8f8f8;
+    padding: 60px 0;
+    text-align: -webkit-center;
+}
+
+.proudInner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+    overflow: hidden; /* clears width33 floats */
+}
+
+/* HEADER */
+.proudHeader {
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.proudTitle {
+    font-size: 24px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    margin: 0 0 10px 0;
+    color: #222;
+}
+
+.proudSubtitle {
+    font-size: 14px;
+    color: #666;
+    margin: 0 0 18px 0;
+}
+
+.proudBtn {
+    margin-top: 5px;
+}
+
+/* GRID */
+.proudGrid {
+    width: 100%;
+}
+
+.proudItem {
+    padding: 10px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+.proudImg {
+    display: block;
+    width: 100%;
+    height: 100%;
+    max-height: 260px;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
+/* ===========================
+   RESPONSIVE
+   =========================== */
+@media (max-width: 768px) {
+
+    .proudGrid {
+        overflow-x: auto;
+        overflow-y: hidden;
+        white-space: nowrap;
+        scroll-snap-type: x mandatory;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .proudItem {
+        width: 100% !important; /* one slide at a time */
+        float: none;
+        display: inline-block;
+        scroll-snap-align: center;
+    }
+
+    .proudImg {
+        width: 100%;
+        height: auto;
+        border-radius: 8px;
+    }
+}
+
+
+/* ===========================
+   SHËRBIMET TONA - CARDS GRID
+   =========================== */
+
+.servicesGridSection {
+    background: #ffffff;
+    padding: 60px 0;
+}
+
+.servicesGridInner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+    overflow: hidden; /* clears width33 floats */
+}
+
+/* HEADER */
+.servicesGridHeader {
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.servicesGridTitle {
+    font-size: 24px;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    margin: 0 0 10px 0;
+    color: #222;
+}
+
+.servicesGridSubtitle {
+    font-size: 14px;
+    color: #666;
+    margin: 0;
+}
+
+/* GRID */
+.servicesGrid {
+    width: 100%;
+}
+
+.serviceCard {
+    box-sizing: border-box;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.serviceCardInner {
+    background: #fafafa;
+    border-radius: 8px;
+    padding: 18px 18px 20px;
+    text-align: center;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+    height: 100%;
+}
+
+.serviceCardImg {
+    display: block;
+    width: 100%;
+    height: 180px;
+    object-fit: scale-down;
+    border-radius: 6px;
+    margin-bottom: 15px;
+}
+
+.serviceCardTitle {
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #333;
+    margin: 0;
+}
+
+/* ===========================
+   RESPONSIVE
+   =========================== */
+@media (max-width: 768px) {
+
+    .servicesGridSection {
+        padding: 40px 0;
+    }
+
+    .serviceCard {
+        width: 100% !important; /* override width33 */
+        float: none;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .serviceCardImg {
+        /*height: auto;*/
+    }
+
+    .servicesGridTitle {
+        font-size: 20px;
+    }
+}
+/* ===========================
+   PSE NA ZGJIDHNI NE
+   =========================== */
+
+.whySection {
+    position: relative;
+    background-size: cover;
+    background-image: url('../images/10.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding: 70px 0;
+    color: #ffffff;
+}
+
+    /* dark overlay for readability */
+    .whySection::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background: rgba(0, 0, 0, 0.45);
+    }
+
+.whyInner {
+    position: relative; /* above overlay */
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+    overflow: hidden; /* in case anything floats inside */
+}
+
+/* RIGHT-SIDE CONTENT */
+.whyContent {
+    box-sizing: border-box;
+    margin-left: auto; /* pushes the box to the RIGHT */
+    padding: 20px 25px;
+    background: rgba(0, 0, 0, 0.45); /* subtle semi-transparent panel */
+    border-radius: 10px;
+}
+
+.whyTitle {
+    font-size: 24px;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    margin: 0 0 20px 0;
+    color: #ffffff;
+}
+
+/* items inside (stacked vertically) */
+.whyItem {
+    margin-bottom: 15px;
+}
+
+    .whyItem:last-child {
+        margin-bottom: 0;
+    }
+
+.whyItemTitle {
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin: 0 0 5px 0;
+    color: #ffffff;
+}
+
+.whyText {
+    font-size: 14px;
+    line-height: 1.7;
+    color: #f0f0f0;
+}
+
+/* ===========================
+   RESPONSIVE
+   =========================== */
+@media (max-width: 768px) {
+
+    .whySection {
+        padding: 50px 0;
+    }
+
+    .whyContent {
+        width: 100% !important; /* override width50 */
+        float: none;
+        margin-left: 0;
+        padding: 18px 18px;
+    }
+
+    .whyTitle {
+        font-size: 20px;
+    }
+
+    .whyItemTitle {
+        font-size: 15px;
+    }
+
+    .whyText {
+        font-size: 13px;
+    }
+}
+/* ===========================
+   STATISTIKAT E BIZNESIT
+   =========================== */
+
+.businessStatsSection {
+    position: relative;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding: 70px 0;
+    color: #ffffff;
+    overflow: hidden;
+    background-image: url('../images/10.jpg');
+}
+
+/* dark overlay */
+.businessStatsOverlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.55);
+}
+
+/* inner container */
+.businessStatsInner {
+    position: relative; /* above overlay */
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+    overflow: hidden;
+}
+
+/* content block */
+.businessStatsContent {
+    box-sizing: border-box;
+    padding: 24px 28px 26px;
+    background: rgba(0, 0, 0, 0.45);
+    border-radius: 10px;
+}
+
+/* if you want it right-aligned, keep this */
+.businessStatsContent {
+    margin-left: auto; /* pushes the width60 block to the right */
+}
+
+.businessStatsHeading {
+    font-size: 13px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: #f5d48a;
+    margin: 0 0 12px 0;
+}
+
+.businessStatsIntro {
+    font-size: 14px;
+    color: #f0f0f0;
+    margin: 0 0 20px 0;
+}
+
+/* stats line */
+.businessStatsGrid {
+    width: 100%;
+}
+
+/* your width25 gives float+width; we just style content */
+.businessStat {
+    box-sizing: border-box;
+    padding: 6px 10px 6px 0;
+    margin-bottom: 6px;
+}
+
+.businessStatNumber {
+    font-size: 22px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.businessStatLabel {
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #e6e6e6;
+}
+
+/* ===========================
+   RESPONSIVE
+   =========================== */
+@media (max-width: 768px) {
+
+    .businessStatsSection {
+        padding: 50px 0;
+    }
+
+    .businessStatsContent {
+        width: 100% !important; /* override width60 */
+        float: none;
+        margin-left: 0;
+        padding: 18px 18px 20px;
+    }
+
+    .businessStat {
+        width: 50% !important; /* 2 per row on mobile */
+        padding-right: 10px;
+    }
+
+    .businessStatsIntro {
+        font-size: 13px;
+    }
+
+    .businessStatNumber {
+        font-size: 20px;
+    }
+
+    .businessStatLabel {
+        font-size: 12px;
+    }
+}
+/* ===========================
+   BUSINESS STATS SECTION
+   =========================== */
+
+.businessStatsSection {
+    position: relative;
+    background-image: url('../images/11.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding: 80px 0;
+    color: #ffffff;
+    overflow: hidden;
+}
+
+/* dark overlay */
+.businessStatsOverlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(0,0,0,0.55);
+}
+
+/* content wrapper */
+.businessStatsInner {
+    position: relative;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+    overflow: hidden;
+}
+
+/* RIGHT panel */
+.businessStatsPanel {
+    box-sizing: border-box;
+    margin-left: auto; /* pushes panel to right */
+    background: rgba(0,0,0,0.45);
+    border-radius: 10px;
+    padding: 24px 28px;
+}
+
+.businessStatsHeading {
+    font-size: 13px;
+    letter-spacing: .18em;
+    text-transform: uppercase;
+    color: #f6d48b;
+    margin: 0 0 12px 0;
+}
+
+.businessStatsIntro {
+    font-size: 14px;
+    color: #f0f0f0;
+    margin: 0 0 20px 0;
+}
+
+/* GRID */
+.businessStatsGrid {
+    width: 100%;
+}
+
+/* each stat */
+.businessStat {
+    box-sizing: border-box;
+    padding: 8px 12px 14px 0;
+}
+
+/* number + label block */
+.statTop {
+    margin-bottom: 6px;
+}
+
+.businessStatNumber {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.businessStatLabel {
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: .08em;
+    color: #e8e8e8;
+}
+
+/* BAR */
+.businessStatBar {
+    width: 100%;
+    height: 7px;
+    border-radius: 4px;
+    background: rgba(255,255,255,.25);
+    overflow: hidden;
+}
+
+.businessStatFill {
+    height: 100%;
+    background: #ffa022; /* 🔥 orange fill */
+    border-radius: 4px;
+}
+
+/* ===========================
+   RESPONSIVE
+   =========================== */
+@media(max-width:768px) {
+
+    .businessStatsSection {
+        padding: 55px 0;
+    }
+
+    .businessStatsPanel {
+        width: 100% !important;
+        float: none;
+        margin-left: 0;
+        padding: 18px 18px 22px;
+    }
+
+    .businessStat {
+        width: 100% !important;
+        float: none;
+        padding-right: 0;
+    }
+
+    .businessStatNumber {
+        font-size: 20px;
+    }
+}
+/* ===========================
+   PROCESI YNË
+   =========================== */
+
+.processSection {
+    background: #ffffff;
+    padding: 60px 0;
+}
+
+.processInner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+    overflow: hidden; /* clears width20 floats */
+}
+
+/* header */
+.processHeader {
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+.processMiniHeading {
+    font-size: 13px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: #b28a4a;
+    margin: 0 0 8px 0;
+}
+
+.processTitle {
+    font-size: 24px;
+    margin: 0;
+    color: #222;
+}
+
+/* grid */
+.processGrid {
+    width: 100%;
+}
+
+.processStep {
+    box-sizing: border-box;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.processStepInner {
+    background: #f8f8f8;
+    border-radius: 10px;
+    padding: 18px 16px 20px;
+    height: 100%;
+    box-shadow: 0 8px 18px rgba(0, 0, 0, 0.05);
+    align-content: center;
+    text-align: center;
+}
+
+/* number circle */
+.processNumber {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: 2px solid #b28a4a;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    margin-bottom: 10px;
+    color: #b28a4a;
+}
+
+/* titles & text */
+.processStepTitle {
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    margin: 0 0 8px 0;
+    color: #222;
+}
+
+.processText {
+    font-size: 13px;
+    color: #555;
+    line-height: 1.6;
+}
+
+/* ===========================
+   RESPONSIVE
+   =========================== */
+@media (max-width: 768px) {
+
+    .processSection {
+        padding: 40px 0;
+    }
+
+    .processTitle {
+        font-size: 20px;
+    }
+
+    .processStep {
+        width: 100% !important; /* override width20 */
+        float: none;
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+/* ===========================
+   TEAM SECTION
+   =========================== */
+
+.teamSection {
+    background: #f8f8f8;
+    padding: 60px 0;
+}
+
+.teamInner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+    overflow: hidden; /* clears width25 floats */
+}
+
+/* header */
+.teamHeader {
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.teamMiniHeading {
+    font-size: 13px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: #b28a4a;
+    margin: 0 0 8px 0;
+}
+
+.teamTitle {
+    font-size: 24px;
+    margin: 0 0 12px 0;
+    color: #222;
+}
+
+.teamIntro {
+    font-size: 14px;
+    color: #666;
+    max-width: 640px;
+    margin: 0 auto;
+}
+
+/* grid */
+.teamGrid {
+    width: 100%;
+}
+
+.teamMember {
+    box-sizing: border-box;
+    padding: 10px;
+    height:380px;
+    align-content: center;
+}
+
+.teamCard {
+    background: #ffffff;
+    padding: 0px 0px 9px;
+    text-align: center;
+    box-shadow: 0 8px 18px rgba(0, 0, 0, 0.05);
+    height: 100%;
+}
+
+/* photo */
+.teamPhotoWrapper {
+    width: auto;
+    height: 310px;
+    overflow: hidden;
+}
+
+.teamPhoto {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* text */
+.teamName {
+    font-size: 15px;
+    font-weight: 600;
+    margin: 0 0 4px 0;
+    line-height:50px;
+    color: #222;
+    background: orange;
+}
+
+.teamRole {
+    font-size: 13px;
+    color: #777;
+}
+
+/* ===========================
+   RESPONSIVE
+   =========================== */
+@media (max-width: 768px) {
+
+    .teamSection {
+        padding: 40px 0;
+    }
+
+    .teamTitle {
+        font-size: 20px;
+    }
+
+    .teamMember {
+        width: 50% !important; /* 2 per row on tablet/mobile */
+        float: left;
+    }
+
+    @media (max-width: 480px) {
+        .teamMember {
+            width: 100% !important; /* 1 per row on very small screens */
+            float: none;
+            padding-left: 0;
+            padding-right: 0;
+        }
+    }
+}
+/* ===========================
+   TESTIMONIALS
+   =========================== */
+
+.testimonialsSection {
+    background: #ffffff;
+    padding: 60px 0;
+}
+
+.testimonialsInner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+    overflow: hidden; /* clears width50 floats */
+}
+
+/* header */
+.testimonialsHeader {
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.testimonialsTitle {
+    font-size: 24px;
+    margin: 0 0 12px 0;
+    color: #222;
+}
+
+.testimonialsIntro {
+    font-size: 14px;
+    color: #666;
+    max-width: 720px;
+    margin: 0 auto;
+}
+
+/* list */
+.testimonialsList {
+    width: 100%;
+}
+
+/* each testimonial */
+.testimonialItem {
+    box-sizing: border-box;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.testimonialCard {
+    background: #f8f8f8;
+    border-radius: 10px;
+    padding: 18px 18px 20px;
+    box-shadow: 0 8px 18px rgba(0, 0, 0, 0.04);
+    height: 100%;
+}
+
+/* name & stars */
+.testimonialName {
+    font-size: 15px;
+    font-weight: 600;
+    margin: 0 0 4px 0;
+    color: #222;
+}
+
+.testimonialStars {
+    font-size: 14px;
+    color: #f5b731; /* golden stars */
+    margin-bottom: 10px;
+}
+
+/* text */
+.testimonialText {
+    font-size: 13px;
+    line-height: 1.7;
+    color: #555;
+}
+
+/* ===========================
+   RESPONSIVE
+   =========================== */
+@media (max-width: 768px) {
+
+    .testimonialsSection {
+        padding: 40px 0;
+    }
+
+    .testimonialsTitle {
+        font-size: 20px;
+    }
+
+    .testimonialItem {
+        width: 100% !important; /* override width50 */
+        float: none;
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+/* ===== MOBILE SLIDER ===== */
+@media (max-width: 768px) {
+
+    .testimonialsList.slider {
+        display: flex;
+        overflow: hidden;
+        scroll-behavior: smooth;
+    }
+
+        .testimonialsList.slider .testimonialItem {
+            width: 100% !important; /* 1 card per view */
+            flex: 0 0 100%;
+            float: none;
+            padding-left: 0;
+            padding-right: 0;
+        }
+}
+/* ===========================
+   CONTACT SECTION
+   =========================== */
+
+.contactSection {
+    position: relative;
+    background-image: url('../images/10.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding: 80px 0;
+    color: #ffffff;
+    overflow: hidden;
+}
+
+/* dark overlay */
+.contactOverlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(0,0,0,0.55);
+}
+
+/* centered inner wrapper */
+.contactInner {
+    position: relative; /* above overlay */
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+    overflow: hidden; /* clears floats */
+}
+
+/* titles */
+.contactTitle {
+    font-size: 22px;
+    margin: 0 0 20px 0;
+}
+
+/* LEFT: INFO COLUMN */
+.contactInfo {
+    box-sizing: border-box;
+    padding-right: 30px;
+}
+
+/* icon + text row */
+.contactInfoBlock {
+    display: flex;
+    align-items: center;
+    margin-bottom: 18px;
+}
+
+.contactIcon {
+    font-size: 28px;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background: rgba(0,0,0,0.45);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 12px;
+}
+
+.contactInfoLabel {
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    margin: 0 0 4px 0;
+    color: #f6d48b;
+}
+
+.contactInfoText {
+    font-size: 14px;
+    margin: 0;
+}
+
+    .contactInfoText a {
+        color: #fff;
+        text-decoration: none;
+    }
+
+/* RIGHT: FORM COLUMN */
+.contactFormWrap {
+    box-sizing: border-box;
+    padding-left: 30px;
+}
+
+.contactForm {
+    background: rgba(0,0,0,0.45);
+    border-radius: 10px;
+    padding: 20px 18px 22px;
+}
+
+/* form */
+.formRow {
+    margin-bottom: 15px;
+}
+
+    .formRow label {
+        display: block;
+        font-size: 13px;
+        margin-bottom: 6px;
+    }
+
+    .formRow input,
+    .formRow textarea {
+        width: 100%;
+        box-sizing: border-box;
+        padding: 8px 10px;
+        border-radius: 4px;
+        border: 1px solid #cccccc;
+        font-size: 14px;
+        outline: none;
+    }
+
+.contactBtn {
+    padding: 10px 26px;
+    border-radius: 4px;
+    border: none;
+    background: #f5c76b;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    cursor: pointer;
+    color: #000;
+}
+
+/* ===========================
+   RESPONSIVE
+   =========================== */
+@media(max-width:768px) {
+
+    .contactSection {
+        padding: 55px 0;
+    }
+
+    .contactInfo,
+    .contactFormWrap {
+        width: 100% !important;
+        float: none;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .contactFormWrap {
+        margin-top: 25px;
+    }
+}
+
+/* ===========================
+   FOOTER
+   =========================== */
+
+.siteFooter {
+    background: #111111;
+    color: #ffffff;
+    margin-top: 0;
+}
+
+/* top area */
+.footerInner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 15px 30px;
+    overflow: hidden; /* clears width33 floats */
+}
+
+.footerCol {
+    box-sizing: border-box;
+    padding: 0 15px 20px;
+}
+
+.footerHeading {
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    margin: 0 0 12px 0;
+    color: #f5d48b;
+}
+
+/* quick links */
+.footerLinks {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+    .footerLinks li {
+        margin-bottom: 6px;
+    }
+
+    .footerLinks a {
+        font-size: 14px;
+        color: #dddddd;
+        text-decoration: none;
+    }
+
+        .footerLinks a:hover {
+            color: #f5d48b;
+        }
+
+/* socials */
+.footerSocials {
+    margin-bottom: 12px;
+}
+
+.footerSocialLink {
+    display: block;
+    font-size: 14px;
+    color: #dddddd;
+    text-decoration: none;
+    margin-bottom: 6px;
+}
+
+    .footerSocialLink:hover {
+        color: #f5d48b;
+    }
+
+.footerSocialIcon {
+    display: inline-block;
+    margin-right: 6px;
+}
+
+/* partner */
+.footerPartner {
+    font-size: 13px;
+    color: #cccccc;
+}
+
+    .footerPartner a {
+        color: #f5d48b;
+        text-decoration: none;
+    }
+
+        .footerPartner a:hover {
+            text-decoration: underline;
+        }
+
+/* help / contact summary */
+.footerHelpList {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+    .footerHelpList li {
+        font-size: 13px;
+        margin-bottom: 6px;
+    }
+
+    .footerHelpList a {
+        color: #f5d48b;
+        text-decoration: none;
+    }
+
+        .footerHelpList a:hover {
+            text-decoration: underline;
+        }
+
+/* bottom bar */
+.footerBottom {
+    border-top: 1px solid #333333;
+    background: #0b0b0b;
+}
+
+.footerBottomInner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 12px 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-size: 12px;
+    color: #aaaaaa;
+}
+
+    .footerBottomInner a {
+        color: #f5d48b;
+        text-decoration: none;
+    }
+
+        .footerBottomInner a:hover {
+            text-decoration: underline;
+        }
+
+/* ===========================
+   RESPONSIVE
+   =========================== */
+@media (max-width: 768px) {
+
+    .footerCol {
+        width: 100% !important; /* override width33 */
+        float: none;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .footerBottomInner {
+        flex-direction: column;
+        gap: 4px;
+        text-align: left;
+    }
+}
